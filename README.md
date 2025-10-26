@@ -224,9 +224,8 @@ The goal is to minimize total connection cost while ensuring all districts remai
 
 **University:** Astana IT University  
 
-**Course:** Data Structures & Algorithms — Assignment 3  
-
 **Date:** October 2025  
+
 
 
 
